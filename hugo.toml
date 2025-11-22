@@ -1,0 +1,43 @@
+baseURL = "https://diego09310.github.io/"
+languageCode = "en-us"
+pagination.PagerSize = 5
+pluralizelisttitles = false
+theme = "casper"
+title = "Diego Avendaño Peces"
+
+[params]
+  author = "Diego Avendaño Peces"
+  authorlocation = "Madrid, Spain"
+  authorwebsite = "https://diego09310.github.io"
+  authoravatar = "images/profile.jpg"
+  cover = "images/cover.jpg"
+  logo = "favicons/favicon-96x96.png"
+  description = "Tinkering, programming, and sometimes climbing."
+  githubName = "diego09310"
+  twitterName = "dap09310"
+  linkedinName = "diegoavendanopeces/en"
+  gitlabName = "diego09310"
+  hideHUGOSupport = true
+
+[markup]
+  [markup.highlight]
+    style = 'monokailight'
+
+# [[menu.main]]
+# name = "Twitter"
+# url = "https://twitter.com/diego09310"
+# pre = "<h2>Follow me</h3>"
+# weight = 199
+# [[menu.main]]
+# name = "Github"
+# url = "https://github.com/diego09310"
+# weight = 189
+# [[menu.main]]
+# name = "Instagram"
+# url = "https://www.instagram.com/diego09310/"
+# weight = 159
+# [[menu.main]]
+# identifier = "blog"
+# name = "Blog"
+# url = "/"
+# weight = 119
